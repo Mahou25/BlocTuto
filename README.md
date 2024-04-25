@@ -18,3 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # BlocTuto
 >>>>>>> e76be4b3c542f1186e33950dae9da9841be14c54
+
+event -> bloc -> state
+Sink -> in()
+Stream -> out()
