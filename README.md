@@ -22,3 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 event -> bloc -> state
 Sink -> in()
 Stream -> out()
+
+we have increment event and decrement event based on counter event
+so we will implement IncrementEvent and DecrementEvent extending from abstract class CounterEvent ()

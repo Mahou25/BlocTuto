@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
             tooltip: 'Increment',
             child: const Icon(Icons.add),
           ),
-          SizedBox(width: 15,),
+          const SizedBox(width: 15,),
           FloatingActionButton(
             onPressed: _decrementCounter,
             tooltip: 'Decrement',
